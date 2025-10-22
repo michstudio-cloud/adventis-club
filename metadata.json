@@ -1,0 +1,5 @@
+{
+  "name": "Adventist Club Digital Platform",
+  "description": "A landing page for the Adventist Club digital platform, allowing users to find clubs, learn about programs, and understand the benefits for members and leaders. It connects to the main application for sign-ups and administration.",
+  "requestFramePermissions": []
+}
