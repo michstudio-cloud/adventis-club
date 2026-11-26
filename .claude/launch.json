@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "conquistadores-dev",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd /Users/mich-m/Documents/DEEL/conquistadores-app && NEXT_PUBLIC_CERTIFICATES_API_URL=http://127.0.0.1:8765 npx next dev -p 3100"],
+      "port": 3100
+    }
+  ]
+}
